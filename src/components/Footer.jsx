@@ -15,7 +15,7 @@ const Footer = () => {
                 <span className='underline text-blue'>
                     Other retailer 
                 </span>
-                near you.
+                {' '} near you.
             </p>
             <p className='font-semibold text-gray text-xs'>
                 or call 0334-2660816
